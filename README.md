@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jenirosel
-- 👀 I’m interested in coding, music, and arts
-- 🌱 I’m currently learning front-end development, piano, & digital arts
-- 💞️ I’m looking to collaborate on start-up projects
+- 👀 Software engineer: Frontend & Backend developer
+- 🌱 Interested in learning new or different tech stack
+- 💞️ Love to play games, piano, digital arts, and eat
 - 📫 How to reach me : Email me at rosel.jeni@gmail.com
 
 <!---
