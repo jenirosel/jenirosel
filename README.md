@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jenirosel
-- 👀 Software engineer: Frontend & Backend developer
+- 👀 Software engineer (Angular, React, Vue, Node, Java, PHP)
 - 🌱 Interested in learning new or different tech stack
 - 💞️ Love to play games, piano, digital arts, and eat
 - 📫 How to reach me : Email me at rosel.jeni@gmail.com
